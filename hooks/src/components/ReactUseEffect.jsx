@@ -4,7 +4,7 @@ import { useEffect } from 'react'
 const ReactUseEffect = () => {
     useEffect(() => {
     console.log('montando el useEffect')
-    })
+    },[])
   return (
     <div>
       <h1>useEffect</h1>
