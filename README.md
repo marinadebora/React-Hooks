@@ -1,3 +1,5 @@
+# iniciar el proyecto con vite
+
 ```
  $ npm create vite@latest <nombre-de-mi-proyecto>
  ```
